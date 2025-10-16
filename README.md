@@ -56,4 +56,44 @@ These KPIs provide a quick overview of claim activity, financial exposure, and c
 
 - Urban and highly urban regions show higher exposure and claim frequencies — an opportunity to revise zone-based premium rates.  
 - Customers aged 36–55 are the most active in claim filing, indicating a correlation with vehicle usage.  
-- Private car policies domin
+- Private car policies dominate in both volume and claim amount, highlighting the need for focused risk strategies.  
+- Commercial vehicle claims, though fewer, show higher individual claim values, affecting loss ratios.  
+- Education and marital status correlate with claim behavior — insights that can refine customer profiling.  
+
+---
+
+## Use Cases  
+
+- **Risk Management →** Identify high-risk customers and regions for proactive risk mitigation and fraud detection.  
+- **Policy Optimization →** Design smarter policy structures by analyzing claim-to-policy ratios and customer demographics.  
+- **Underwriting Insights →** Evaluate vehicle, customer, and geographic factors impacting claim amounts and frequency.  
+- **Performance Monitoring →** Enable insurance managers to track claim trends, optimize profitability, and improve pricing models using live dashboards.  
+
+---
+
+## Screenshot  
+
+### Summary Dashboard  
+![Insurance Risk & Claim Analysis Dashboard](https://github.com/sujityadav0505/Insurance-Risk-Claim-Analysis-Dashboard/blob/main/Screenshot%202025-10-16%20154424.png)  
+
+*(Replace with your actual image path once uploaded to GitHub)*  
+
+---
+
+## Data Source  
+
+A sample and anonymized dataset — **`insurance_policies_data.xlsx`** — is used in this project for educational and analytical purposes.  
+It replicates real-world insurance policy and claim data to simulate authentic scenarios while maintaining confidentiality.  
+
+---
+
+## Contact  
+
+**Sujit Yadav**  
+📧 Email: [yadavsujit977@gmail.com](mailto:yadavsujit977@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/sujit-yadav-0aa22b291](https://www.linkedin.com/in/sujit-yadav-0aa22b291)  
+🌐 GitHub: [github.com/sujityadav0505](https://github.com/sujityadav0505)  
+
+*Feel free to connect to discuss data analytics, dashboard design, or risk analysis using Power BI!*  
+
+---
