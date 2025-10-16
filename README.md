@@ -72,11 +72,7 @@ These KPIs provide a quick overview of claim activity, financial exposure, and c
 ---
 
 ## Screenshot  
-
-### Summary Dashboard  
-![Insurance Risk & Claim Analysis Dashboard](https://github.com/sujityadav0505/Insurance-Risk-Claim-Analysis-Dashboard/blob/main/Screenshot%202025-10-16%20154424.png)  
-
-*(Replace with your actual image path once uploaded to GitHub)*  
+https://github.com/sujityadav0505/Insurance-Risk-Claim-Analysis/blob/main/Insurance%20Risk%20%26%20Claim%20Analysis%20Dashboard.png
 
 ---
 
